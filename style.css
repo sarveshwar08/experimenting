@@ -1,0 +1,18 @@
+div {
+     margin-top: 50 px;
+     margin-left: 50 px;
+     border: 2px solid black;
+}
+.div1{
+    position: absolute;
+     top: 0;
+    left: 0;
+    width: 100%;
+}
+.div2{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    
+}
